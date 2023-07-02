@@ -1,0 +1,49 @@
+
+1. Teste de criação de usuário:
+   - Verificar se um novo usuário pode ser criado com sucesso no sistema.
+   - Verificar se os detalhes do usuário são salvos corretamente.
+
+2. Teste de login:
+   - Verificar se um usuário registrado pode fazer login com sucesso no sistema.
+   - Verificar se o acesso é negado para credenciais inválidas.
+
+3. Teste de definição de metas de economia de energia:
+   - Verificar se um usuário pode definir metas de economia de energia.
+   - Verificar se as metas são salvas corretamente para o usuário.
+
+4. Teste de notificação de metas de economia de energia:
+   - Verificar se o usuário recebe notificações quando atinge ou excede as metas definidas.
+   - Verificar se as notificações são enviadas corretamente para o usuário.
+
+5. Teste de alerta de consumo de energia:
+   - Verificar se o usuário pode definir alertas de consumo de energia.
+   - Verificar se o usuário recebe alertas quando o consumo excede os limites definidos.
+
+6. Teste de monitoramento de consumo de energia em tempo real:
+   - Verificar se o software é capaz de monitorar o consumo de energia em tempo real para cada dispositivo.
+   - Verificar se as leituras de consumo de energia são precisas e atualizadas.
+
+7. Teste de identificação de desperdícios de energia:
+   - Verificar se o software é capaz de identificar dispositivos que estão consumindo energia desnecessariamente.
+   - Verificar se o usuário recebe recomendações para reduzir o consumo de energia desses dispositivos.
+
+8. Teste de geração de relatórios de consumo de energia:
+   - Verificar se o software pode gerar relatórios detalhados de consumo de energia.
+   - Verificar se os relatórios são precisos e fornecem informações úteis para o usuário.
+
+9. Teste de segurança:
+   - Verificar se o software protege adequadamente os dados do usuário.
+   - Verificar se o acesso não autorizado é impedido.
+
+10. Teste de escalabilidade:
+    - Verificar se o software pode lidar com grandes quantidades de dados de consumo de energia.
+    - Verificar se o desempenho do sistema permanece estável à medida que o número de usuários e dispositivos aumenta.
+
+11. Teste de comparação de consumo de energia:
+    - Verificar se o usuário pode comparar seu consumo de energia com outras residências ou empresas na mesma área.
+    - Verificar se as comparações são precisas e relevantes.
+
+12. Teste de facilidade de uso:
+    - Verificar se a interface do usuário é intuitiva e fácil de navegar.
+    - Verificar se as funcionalidades do software são de fácil acesso e compreensão para o usuário.
+
